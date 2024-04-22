@@ -10,17 +10,3 @@
 thegoatsigma/thegoatsigma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-
-
-
-
-
-
-
-
-
-
-
-its been 1 year since i started coding
-i was 11 when i started coding
